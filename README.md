@@ -2,4 +2,4 @@
 
 This is a new line
 
-This line is written in the new branch named 'NewBranch'
+This line is written in the new branch named 'InstallationSetUp'
